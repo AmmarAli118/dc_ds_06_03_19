@@ -109,9 +109,30 @@
 |                 | One                                       | Two                                       | Three                                     | Four                                      | Five                                      |
 |:----------------|:------------------------------------------|:------------------------------------------|:------------------------------------------|:------------------------------------------|:------------------------------------------|
 | Warm-up         | PROJECT 3      | PROJECT 3           |    PROJECT 3     |        |       | 
-| Morning code    |     |                                                                                                                                              |       | |    | 
-| Morning video   |                                                                     |                                                                                                                             |      |  |     | 
+| Morning code    |     |                                                                                                                                              |       |<a href="https://github.com/learn-co-students/dc_ds_06_03_19/blob/master/module_5/week-1/day-1-knn/knn-classification.ipynb">KNN</a> | <a href="https://github.com/learn-co-students/dc_ds_06_03_19/blob/master/module_5/week-1/day-2-decision-trees/decision-trees-enkeboll.ipynb">Decision Trees</a>   | 
+| Morning video   |                                                                     |                                                                                                                             |      | <a href="https://www.youtube.com/watch?v=BsyNzdWUGWs">KNN</a> |   <a href="https://www.youtube.com/watch?v=_QmWozVmQCY">Decision Trees</a>  | 
 | Afternoon code  |                                                                                                                                                                           |                                                                                                                                 |       |      |      | 
 | Afternoon video |                                                                                                                                                                           |                                                                                                                                                 |       |      |    | 
 
+
+### Week X
+
+|                 | One                                       | Two                                       | Three                                     | Four                                      | Five                                      |
+|:----------------|:------------------------------------------|:------------------------------------------|:------------------------------------------|:------------------------------------------|:------------------------------------------|
+| Warm-up         |       |            |         |        |       | 
+| Morning code    |   <a href="https://github.com/learn-co-students/dc_ds_06_03_19/blob/master/module_5/week-2/day-1-random-forest/random-forest.ipynb">Random Forests</a>  | <a href="https://github.com/learn-co-students/dc_ds_06_03_19/blob/master/module_5/week-2/day-2-svm/SVM.ipynb">SVM</a>     | <a href="https://github.com/learn-co-students/dc_ds_06_03_19/blob/master/module_5/week-2/day-3-pca/Principal-Component-Analysis.ipynb">PCA</a>     | | <a href="https://github.com/learn-co-students/dc_ds_06_03_19/tree/master/module_5/week-2/day-5-pyspark">PySpark Intro</a>| 
+| Morning video   |  <a href="https://www.youtube.com/watch?v=PogVA1Zkt7M">Random Forests</a>   | <a href="https://youtu.be/mTe-laSnYrg">SVM</a>   | <a href="https://youtu.be/Zf5D7VX0sdg">PCA</a>     |  |  <a href="https://www.youtube.com/watch?v=QsyZ-NcTCLg">PySpark Intro</a>  | 
+| Afternoon code  |                                                                                                                                                                           |                                                                                                                                 |       |      |      | 
+| Afternoon video |                                                                                                                                                                           |                                                                                                                                                 |       |      |    | 
+
+
+### Week XI
+
+|                 | One                                       | Two                                       | Three                                     | Four                                      | Five                                      |
+|:----------------|:------------------------------------------|:------------------------------------------|:------------------------------------------|:------------------------------------------|:------------------------------------------|
+| Warm-up         |       |            |      |     |      | 
+| Morning code    |       |            |      |     |      | 
+| Morning video   |       |            |      |     |      | 
+| Afternoon code  | <a href="https://github.com/learn-co-students/dc_ds_06_03_19/tree/master/module_5/week-3/day-1-recommendation-systems">Recommendation System in PySpark</a>      | <a href="https://github.com/learn-co-students/dc_ds_06_03_19/tree/master/module_5/week-3/day-2-classifcation_code_along">Classifcation code-along</a>  |      |     |      | 
+| Afternoon video | <a href="https://www.youtube.com/watch?v=wncL_X7DoE0">Recommendation System in PySpark</a>      |            |      |     |      | 
 
